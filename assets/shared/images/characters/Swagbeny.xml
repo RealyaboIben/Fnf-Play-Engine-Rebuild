@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Swagbeny.png" width="4072" height="2677">
+  <SubTexture name="ben_down0002" x="0" y="0" width="832" height="424" rotated="true"  frameX="-267" frameY="-129" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_down0003" x="832" y="0" width="839" height="424" rotated="true"  frameX="-265" frameY="-122" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_down0001" x="1671" y="0" width="824" height="429" rotated="true"  frameX="-265" frameY="-137" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_up0002" x="2495" y="0" width="935" height="480" rotated="true"  frameX="-184" frameY="-24" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_left0002" x="3430" y="0"  width="631" height="892" frameX="-247" frameY="-74" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_up0001" x="0" y="424" width="923" height="482" rotated="true"  frameX="-182" frameY="-36" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_up0003" x="923" y="429" width="934" height="488" rotated="true"  frameX="-176" frameY="-25" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="Ben_idle0004" x="1857" y="480" width="930" height="543" rotated="true"  frameX="-163" frameY="-30" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_right0003" x="2787" y="480"  width="634" height="895" frameX="-139" frameY="-70" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="Ben_idle0005" x="0" y="917" width="941" height="543" rotated="true"  frameX="-163" frameY="-19" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="Ben_idle0002" x="941" y="917" width="911" height="580" rotated="true"  frameX="-132" frameY="-50" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="Ben_idle0007" x="1852" y="1023" width="928" height="551" rotated="true"  frameX="-159" frameY="-32" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_left0003" x="3421" y="892"  width="651" height="894" frameX="-237" frameY="-72" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="Ben_idle0003" x="0" y="1460" width="929" height="567" rotated="true"  frameX="-139" frameY="-31" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="Ben_idle0001" x="929" y="1497" width="897" height="584" rotated="true"  frameX="-132" frameY="-63" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_left0001" x="1826" y="1574" width="902" height="604" rotated="true"  frameX="-255" frameY="-64" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_right0002" x="2780" y="1375"  width="627" height="898" frameX="-139" frameY="-67" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="ben_right0001" x="0" y="2027" width="902" height="650" rotated="true"  frameX="-121" frameY="-63" frameWidth="888" frameHeight="966"/>
+  <SubTexture name="Ben_idle0006" x="0" y="917" width="941" height="543" rotated="true"  frameX="-163" frameY="-19" frameWidth="888" frameHeight="966"/>
+</TextureAtlas>
