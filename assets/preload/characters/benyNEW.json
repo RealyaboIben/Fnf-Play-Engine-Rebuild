@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				341,
+				285
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ben_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				275
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ben_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				278
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ben_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				148,
+				278
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ben_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				190,
+				277
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Ben_idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/swagbeny",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "beny",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		48,
+		209
+	],
+	"camera_position": [
+		-220,
+		-170
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
