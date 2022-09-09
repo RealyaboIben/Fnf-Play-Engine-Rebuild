@@ -2366,41 +2366,8 @@ class PlayState extends MusicBeatState
 		if (FlxG.keys.anyJustPressed(debugKeysChart) && !endingSong && !inCutscene)
 		{
 			openChartEditor();
-			}
 		}
 
-		class PlayState extends HealthIcon
-{
-		if (health > 2)
-			health = 2;
-
-		if (healthBar.percent < 20)
-			iconP1.animation.curAnim.curFrame = 1;
-		else if (healthBar.percent > 80)
-			iconP1.animation.curAnim.curFrame = 2;
-		else
-			iconP1.animation.curAnim.curFrame = 0;
-
-		if (healthBar.percent > 80)
-			iconP2.animation.curAnim.curFrame = 1;
-		else if (healthBar.percent < 20)
-			iconP2.animation.curAnim.curFrame = 2;
-		else
-			iconP2.animation.curAnim.curFrame = 0;
-			#end
-}
-
-	override function updateHitbox()
-	{
-		super.updateHitbox();
-		offset.x = iconOffsets[0];
-		offset.y = iconOffsets[1];
-	}
-
-	public function getCharacter():String {
-		return char;
-	}
-}
 		// FlxG.watch.addQuick('VOL', vocals.amplitudeLeft);
 		// FlxG.watch.addQuick('VOLRight', vocals.amplitudeRight);
 
