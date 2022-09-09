@@ -60,7 +60,6 @@ class HealthIcon extends FlxSprite
 		}
 	}
 
-
 	override function updateHitbox()
 	{
 		super.updateHitbox();
