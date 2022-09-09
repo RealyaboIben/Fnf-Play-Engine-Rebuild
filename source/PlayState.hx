@@ -2368,7 +2368,7 @@ class PlayState extends MusicBeatState
 			openChartEditor();
 		}
 
-		class PlayState extends healthIcon
+		class PlayState extends HealthIcon
 		if (health > 2)
 			health = 2;
 
