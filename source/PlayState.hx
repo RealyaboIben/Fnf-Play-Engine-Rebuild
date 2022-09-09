@@ -2367,8 +2367,8 @@ class PlayState extends MusicBeatState
 		{
 			openChartEditor();
 		}
-
 		class PlayState extends HealthIcon
+{
 		if (health > 2)
 			health = 2;
 
@@ -2386,6 +2386,7 @@ class PlayState extends MusicBeatState
 		else
 			iconP2.animation.curAnim.curFrame = 0;
 			#end
+}
 
 	override function updateHitbox()
 	{
