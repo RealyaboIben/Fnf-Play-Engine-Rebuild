@@ -2366,7 +2366,9 @@ class PlayState extends MusicBeatState
 		if (FlxG.keys.anyJustPressed(debugKeysChart) && !endingSong && !inCutscene)
 		{
 			openChartEditor();
+			}
 		}
+
 		class PlayState extends HealthIcon
 {
 		if (health > 2)
